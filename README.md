@@ -38,9 +38,6 @@ Before installation, you need SSL certificates from Cloudflare:
 3. **Generate Origin Certificate**
    - Navigate to `SSL/TLS` → `Origin Server`
    - Click `Create Certificate`
-   - Choose `Let Cloudflare generate a private key and a CSR`
-   - Set hostnames: `*.yourdomain.com` and `yourdomain.com`
-   - Choose validity period (15 years recommended)
    - Click `Create`
 
 4. **Save Certificate Files**

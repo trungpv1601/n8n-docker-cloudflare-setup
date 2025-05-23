@@ -38,9 +38,6 @@ Trước khi cài đặt, bạn cần chứng chỉ SSL từ Cloudflare:
 3. **Tạo Origin Certificate**
    - Điều hướng đến `SSL/TLS` → `Origin Server`
    - Nhấn `Create Certificate`
-   - Chọn `Let Cloudflare generate a private key and a CSR`
-   - Đặt hostnames: `*.yourdomain.com` và `yourdomain.com`
-   - Chọn thời gian hiệu lực (khuyến nghị 15 năm)
    - Nhấn `Create`
 
 4. **Lưu các tệp chứng chỉ**
