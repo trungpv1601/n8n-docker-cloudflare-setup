@@ -1,3 +1,7 @@
+# Register your account on DigitalOcean
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e0496d81b971&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 # n8n Docker Setup with Caddy and Cloudflare SSL
 
 A complete guide to set up n8n with Docker, Caddy reverse proxy, and Cloudflare SSL certificates on Ubuntu.
@@ -60,8 +64,8 @@ Set up DNS records for your n8n subdomain:
 
 ```bash
 # Download the installation files
-git clone https://github.com/your-username/n8n-docker-caddy-cloudflare.git
-cd n8n-docker-caddy-cloudflare
+git clone https://github.com/trungpv1601/n8n-docker-cloudflare-setup
+cd n8n-docker-cloudflare-setup
 
 # Make the install script executable
 chmod +x install.sh
